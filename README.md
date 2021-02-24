@@ -8,7 +8,7 @@ MENU
 4. Exit
 ---------------------------
 Enter your choice: 1
-Enter course name you want to add: AI
+Enter course name you want to add: AI  
 Course AI Added successfully!
 ---------------------------
 MENU
@@ -19,7 +19,7 @@ MENU
 4. Exit
 ---------------------------
 Enter your choice: 1
-Enter course name you want to add: WEB
+Enter course name you want to add: WEB  
 Course WEB Added successfully!
 ---------------------------
 MENU
